@@ -14,7 +14,7 @@ function App() {
 					href="https://reactjs.org"
 					target="_blank"
 					rel="noopener noreferrer">
-					learn react
+					This is a pull request example
 				</a>
 			</header>
 		</div>
